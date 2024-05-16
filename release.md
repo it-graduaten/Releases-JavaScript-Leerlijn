@@ -140,11 +140,4 @@ Release created at Mon Apr 22 09:37:03 UTC 2024
 - Les 4 van mobiele applicaties is uitgebreid met informatie over het toevoegen van iconen en splash screens.
 
 
-# Release v2.0.0,
-Release created at Thu May 16 19:23:37 UTC 2024
-## Release Notes:
-
-
-- Les 4 van mobiele applicaties is uitgebreid met informatie over het toevoegen van iconen en splash screens.
-
 
